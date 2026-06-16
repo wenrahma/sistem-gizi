@@ -1,0 +1,60 @@
+======================================================================
+                  SISTEM PAKAR GIZI & POLA MAKAN
+======================================================================
+Tanggal : 16/06/2026 19:20:55
+======================================================================
+
+🔄 REKOMENDASI TERDEKAT
+──────────────────────────────────────────────────────────────────────
+
+💡 Tidak ada rekomendasi yang 100% cocok.
+   Berikut rekomendasi yang paling mendekati:
+
+1. 🥗 Defisiensi Vitamin D
+   ⚠️ COCOK - (3 dari 4 indikator terpenuhi)
+   (3 dari 4 kriteria terpenuhi)
+
+   📝 Penjelasan:
+   Vitamin D membantu penyerapan kalsium. Kekurangan vitamin D menyebabkan nyeri tulang, kesemutan, dan daya tahan tubuh menurun.
+
+   🍽️ Rekomendasi Makanan:
+      ☀️ Berjemur 15-30 menit sebelum jam 9 pagi
+      🐟 Konsumsi ikan salmon, tuna, sarden
+      🥚 Makan kuning telur
+      🥛 Minum susu yang diperkaya vitamin D
+
+2. 🥗 Dehidrasi Ringan
+   ⚠️ COCOK - (2 dari 3 indikator terpenuhi)
+   (2 dari 3 kriteria terpenuhi)
+
+   📝 Penjelasan:
+   Air penting untuk semua fungsi tubuh. Dehidrasi menyebabkan pusing, lelah, dan sulit fokus.
+
+   🍽️ Rekomendasi Makanan:
+      💧 Minum 8-10 gelas air putih per hari
+      📱 Gunakan aplikasi pengingat minum air
+      🍉 Konsumsi buah berair (semangka, jeruk)
+      ☕ Kurangi kafein (kopi, teh)
+
+3. 🥗 Kelebihan Asupan Garam (Risiko Hipertensi)
+   ⚠️ COCOK - (2 dari 3 indikator terpenuhi)
+   (2 dari 3 kriteria terpenuhi)
+
+   📝 Penjelasan:
+   Kelebihan garam meningkatkan tekanan darah dan risiko penyakit jantung.
+
+   🍽️ Rekomendasi Makanan:
+      🧂 Kurangi garam (maks 1 sendok teh/hari)
+      🥗 Hindari makanan olahan, mie instan
+      🍌 Perbanyak kalium dari pisang, alpukat
+      💧 Minum air putih lebih banyak
+
+
+======================================================================
+⚠️ DISCLAIMER MEDIS ⚠️
+Sistem ini hanya untuk EDUKASI GIZI. Bukan pengganti konsultasi
+dengan dokter atau ahli gizi. Jika gejala parah atau berlanjut,
+segera konsultasikan ke tenaga kesehatan profesional.
+======================================================================
+
+📁 File ini disimpan pada: 16/06/2026 19:20:55

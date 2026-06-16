@@ -1,5 +1,4 @@
 # knowledge_base.py
-# Versi RINGKAS - 6 aturan untuk UAS
 
 RULES = [
     # 1. Defisiensi Zat Besi (Anemia)

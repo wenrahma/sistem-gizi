@@ -1,5 +1,4 @@
 # questions.py
-# Versi RINGKAS - 20 pertanyaan untuk UAS
 
 QUESTIONS = [
     # === GEJALA FISIK (1-10) ===
