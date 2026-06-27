@@ -1,0 +1,27 @@
+======================================================================
+                  SISTEM PAKAR GIZI & POLA MAKAN
+======================================================================
+Tanggal: 25/06/2026 21:58:51
+👤 Wendi  |  📅 24 tahun
+======================================================================
+
+⚠️ Defisiensi Vitamin D
+--------------------------------------------------
+⚠️ COCOK - (3/4)
+
+Rekomendasi:
+  ☀️ Berjemur 15-30 menit sebelum jam 9 pagi
+  🐟 Konsumsi ikan salmon, tuna, sarden
+  🥚 Makan kuning telur
+
+⚠️ Dehidrasi Ringan
+--------------------------------------------------
+⚠️ COCOK - (2/3)
+
+Rekomendasi:
+  💧 Minum 8-10 gelas air putih per hari
+  📱 Gunakan aplikasi pengingat minum air
+  🍉 Konsumsi buah berair (semangka, jeruk)
+
+======================================================================
+⚠️ EDUKASI GIZI - BUKAN PENGGANTI DOKTER

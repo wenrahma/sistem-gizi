@@ -16,7 +16,7 @@ QUESTIONS = [
     # === POLA MAKAN (11-15) ===
     ("Apakah Anda jarang makan sayur (kurang dari 3x/minggu)?", "pola_jarang_sayur"),
     ("Apakah Anda jarang makan buah (kurang dari 3x/minggu)?", "pola_jarang_buah"),
-    ("Apakah Anda mengonsumsi produk susu/minimal?", "pola_kurang_susu"),
+    ("Apakah Anda mengonsumsi produk susu?", "pola_kurang_susu"),
     ("Apakah Anda minum air putih <8 gelas per hari?", "pola_kurang_air"),
     ("Apakah Anda vegetarian atau vegan?", "pola_vegetarian"),
     
